@@ -1,2 +1,2 @@
 # ouka
-Apostilas de programação
+Apostilas de programação em Portugu
